@@ -13,3 +13,6 @@ Explore the data to identify patterns or anomalies.
 
 4. Exploratory Data Analysis (EDA):
 Perform statistical and visual analysis to understand the distribution of sales, popular products, and customer demographics.
+
+Link to my project:
+https://colab.research.google.com/drive/1NkvdKlphoskR-bqWfVuo2aMt-9EvWgmI?usp=sharing
