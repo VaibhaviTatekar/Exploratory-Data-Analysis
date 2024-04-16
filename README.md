@@ -1,4 +1,4 @@
-# Python_Diwali_sales_analysis
+# Exploratory Data Analysis in python
 
 Objective:
 The objective of this project is to analyze sales data during the Diwali period to gain insights into customer behavior, popular products, and overall sales performance.
